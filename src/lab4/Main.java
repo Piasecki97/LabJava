@@ -1,7 +1,6 @@
 package lab4;
 
 import java.util.Arrays;
-import java.util.Collections;
 
 import lab4.exceptions.MatrixAddOperationException;
 import lab4.utils.ArrayUtils;
